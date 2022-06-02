@@ -1,0 +1,9 @@
+Title: The field "Phone" in Personal Account accepts invalid data
+STR:1.Open the Personal Account page
+    2.Put the text value in the field Phone
+    3.Click Save
+R:The field Phone accepts text value
+ER:The field Phone should accept just numerical value
+Severity:2
+Priority:1
+
