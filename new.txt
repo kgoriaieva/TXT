@@ -1,0 +1,4 @@
+name Ekaterina
+age 31
+pets 3
+salary 500$
